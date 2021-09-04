@@ -12,5 +12,4 @@ http.createServer((req, res) =>{
         res.end('<h1>Welcome to the family</h1>')
     }
 
-    
 }).listen(port, ()=> console.log((`Server is running ${host}:${port}`))); // Criando servidor

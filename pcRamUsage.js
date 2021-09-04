@@ -18,4 +18,3 @@ setInterval(()=> {
     console.table(stats);
     exports.stats = stats;
 }, 1000)
-
