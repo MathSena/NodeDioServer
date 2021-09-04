@@ -12,7 +12,7 @@ Criando um servidor Node que exibe informações de usuo de memória do seu sist
 * Implementar um html
 
 - Projeto feito pela [Digital Innovation One](https://digitalinnovation.one/) ministrado pela instrutora [Diana Martine](https://github.com/DianaMartine).
-- Repositório [origem]: (https://github.com/DianaMartine/nodeJs-liveCoding-DIO)
+- Repositório: [nodeJs-liveCoding-DIO](https://github.com/DianaMartine/nodeJs-liveCoding-DIO)
 
 <img src="https://hermes.digitalinnovation.one/site/images/cover_dio.jpg" alt="Cursos grátis de tecnologia e inovação | Digital Innovation One" style="zoom:25%;" />
 
